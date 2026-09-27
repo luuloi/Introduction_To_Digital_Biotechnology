@@ -17,7 +17,7 @@ Môn Nhập Môn Công Nghệ Sinh Học Số cho sinh viên năm nhất chuyên
 - [PDF](Lecture_04/CNSHS_Lecture_03.pdf)
 
 ## [**Lecture 05. Statistical Analysis in Non-Invasive Prenatal Testing (NIPT) [Phat] - 25/09/2026; Room 102 H2**](Lecture_05/)
-- [PDF](Lecture_05/CNSHS_Lecture_04.pdf)
+- [PDF](Lecture_05/CNSHS_Lecture_05_NIPT.pdf)
 
 ## [**Lecture 06. Integrating Organic Amendments for Sustainable Agriculture: Soil Microbiome Succession and Yield in Brassica Cultivation [Hung] - 03/10/2026; Room 102 H2**](Lecture_06/)
 - [PDF](Lecture_06/CNSHS_Lecture_06.pdf)
