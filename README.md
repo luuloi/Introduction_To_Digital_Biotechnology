@@ -2,7 +2,7 @@
 ##
 Môn Nhập Môn Công Nghệ Sinh Học Số cho sinh viên năm nhất chuyên ngành Công Nghệ Sinh Học Số - Đại Học Đồng Tháp
 - Giảng viên: TS. Lưu Phúc Lợi
-- Trợ giảng: CN. Phạm Hiếu Đan, CN. Dương Tấn Phát, CN. Nguyễn Mạnh Hùng và CN. Nguyễn Thái Thành
+- Trợ giảng: CN. Phạm Hiếu Đan, CN. Dương Tấn Phát, CN. Nguyễn Mạnh Hùng, KS. Trần Đức Phúc và CN. Nguyễn Thái Thành
 
 ## [**Lecture 01. Introduction to Human Genome Project and Next-Generation Sequencing (NGS) [Loi] - 14/09/2026; Room 102 H2**](Lecture_01/)
 - [PDF](Lecture_01/CNSHS_Lecture_01.pdf)
