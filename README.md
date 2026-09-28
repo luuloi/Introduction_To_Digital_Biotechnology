@@ -25,5 +25,5 @@ Môn Nhập Môn Công Nghệ Sinh Học Số cho sinh viên năm nhất chuyên
 ## [**Lecture 07. Phosphate-to-albumin ratio and 30-day mortality in critically ill acute pancreatitis: multicenter development and external validation of an interpretable machine learning model [Thanh] - 03/10/2026; Room 102 H2**](Lecture_07/)
 - [PDF](Lecture_07/CNSHS_Lecture_07.pdf)
 
-## [**Lecture 08. De Novo Transcriptome Assembly and Expression Atlas for the Slipper Lobster Reveals an evolutionary event forming Molecular Male Marker [Phuc] - 03/10/2026; Room 102 H2**]
+## [**Lecture 08. De Novo Transcriptome Assembly and Expression Atlas for the Slipper Lobster Reveals an evolutionary event forming Molecular Male Marker [Phuc] - 03/10/2026; Room 102 H2**](Lecture_08)
 - [PDF](Lecture_08/CNSHS_Lecture_08.pdf)
